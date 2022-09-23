@@ -6,4 +6,3 @@
 asdfsadgdsg
 dgadga
 
-[lorem](http://google.com)
